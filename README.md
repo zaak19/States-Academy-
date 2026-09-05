@@ -1,49 +1,23 @@
-# States Academy
+# States Academy — Official Website
 
-Welcome to States Academy.
+Static bilingual website for GitHub Pages.
 
-States Academy is a digital platform dedicated to business, entrepreneurship, professional training, guides, and private coaching.
+## Files
+- `index.html` — main website
+- `styles.css` — premium black / white / ivory design
+- `script.js` — FR/EN language switcher + mobile navigation
+- `assets/logo.png` — States Academy logo
 
-## About the Project
+## Deploy on GitHub Pages
+1. Create a GitHub repository.
+2. Upload all files and the `assets` folder.
+3. Go to **Settings → Pages**.
+4. Under **Build and deployment**, select **Deploy from a branch**.
+5. Choose the `main` branch and `/ (root)`.
+6. Save.
 
-This website presents the different resources and services offered by States Academy, including:
+## Important
+The product cards currently use placeholder destinations. Replace the `href="#contact"` links with your real checkout/product URLs when you provide them.
 
-- Business and entrepreneurship training
-- Digital guides
-- Private coaching
-- Business mentorship
-- Educational resources
-
-The website is designed for an international audience and supports both English and French.
-
-## Website Features
-
-- Responsive design for mobile, tablet, and desktop
-- English / French language switcher
-- Premium black and white visual identity
-- Training and digital resource sections
-- Private coaching section
-- Contact section
-- Social media section
-- Responsive mobile navigation
-
-## Technologies
-
-This website is built with:
-
-- HTML5
-- CSS3
-- JavaScript
-
-No framework is required.
-
-## Project Structure
-
-```text
-States-Academy/
-│
-├── index.html
-├── style.css
-├── script.js
-├── logo.png
-└── README.md
+The contact email is:
+statesacademy67@gmail.com
